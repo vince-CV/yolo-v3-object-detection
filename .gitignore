@@ -1,2 +1,10 @@
 .git
 darknet/
+VOCdevkit/VOC2019/Annotations
+VOCdevkit/VOC2019/images/train2014
+VOCdevkit/VOC2019/ImageSets
+VOCdevkit/VOC2019/labels/train2014
+
+
+yolov3.weights
+testfiles.tar.gz
