@@ -1,4 +1,5 @@
 .git
+VOCdevkit/VOC2019
 
 darknet/.circleci
 darknet/.github
