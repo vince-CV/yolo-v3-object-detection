@@ -1,5 +1,10 @@
 # YOLO-v3 Object Detection
 
+```
+darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights
+```
+
+
 ### Install annotation tool
 Install `LabelImg`, dependency `Python 3.x` + `Qt 5`
 
