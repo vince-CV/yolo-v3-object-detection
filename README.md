@@ -17,8 +17,8 @@ Pre-define the classes in `labelImg/data/predefined_classes.txt`.
 
 ### Annotate custom data set
 Generate file form:
-1. PASCAL VOC: .xml (Top left, bottom right points)
-2. YOLO: .txt (class_id, x, y, w, h) ratio form
+1. PASCAL VOC: .xml (Top left, bottom right points);
+2. YOLO: .txt (class_id, x, y, w, h) ratio form;<br>
 Convert data files using: `datacheck/gen_anchors.py`.
 
 ### Reform data set
