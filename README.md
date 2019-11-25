@@ -18,6 +18,9 @@ Generate file form:
 ### Reform data set
 
 ### Configrations for data & model
+```
+darknet.exe detector calc_anchors cfg/voc-at.data -num_of_clusters 9 -width 256 -height 256
+```
 
 ### Train
 ```
