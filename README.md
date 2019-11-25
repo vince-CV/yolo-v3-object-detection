@@ -20,5 +20,8 @@ Generate file form:
 ### Configrations for data & model
 
 ### Train
+```
+darknet detector train cfg/voc-at.data cfg/yolov3-voc-at.cfg darknet53.conv.74
+```
 
 ### Test
