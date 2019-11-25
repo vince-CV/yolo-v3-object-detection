@@ -1,1 +1,429 @@
-C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191105_092656_0000000001_0_&Cam1Img - Copy.bmp
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095247_0000000005_0_&Cam1Img - Copy.bmp
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095247_0000000005_0_&Cam1Img - Copy_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095247_0000000005_0_&Cam1Img - Copy_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095247_0000000005_0_&Cam1Img - Copy_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095624_0000000015_0_&Cam1Img - Copy.bmp
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095624_0000000015_0_&Cam1Img - Copy_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095624_0000000015_0_&Cam1Img - Copy_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095624_0000000015_0_&Cam1Img - Copy_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095624_0000000015_0_&Cam1Img - Copy_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191023_095624_0000000015_0_&Cam1Img - Copy_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191105_092656_0000000001_0_&Cam1Img - Copy_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191105_092656_0000000001_0_&Cam1Img - Copy_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191105_092656_0000000001_0_&Cam1Img - Copy_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191105_092656_0000000001_0_&Cam1Img - Copy_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191113_143039_0000000001_0_&Cam1Img - Copy.bmp
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191113_143039_0000000001_0_&Cam1Img - Copy_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191113_143039_0000000001_0_&Cam1Img - Copy_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191113_143039_0000000001_0_&Cam1Img - Copy_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191118_152615_0000000015_0_&Cam1Img - Copy_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191118_152615_0000000015_0_&Cam1Img - Copy_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191118_152615_0000000015_0_&Cam1Img - Copy_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191118_152615_0000000015_0_&Cam1Img - Copy_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191120_092258_0000000001_0_&Cam1Img - Copy_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191120_092258_0000000001_0_&Cam1Img - Copy_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191120_092258_0000000001_0_&Cam1Img - Copy_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/191120_092258_0000000001_0_&Cam1Img - Copy_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4514_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4514_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4514_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4515_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4515_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4515_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4515_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4515_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4515_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4516.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4516_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4516_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4517_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4517_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4517_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4517_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4517_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4517_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4518_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4518_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4518_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4518_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4518_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4519_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4519_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4519_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4520_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4521_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4521_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4521_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4521_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4521_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4522_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4522_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4523_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4523_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4523_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4523_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4524_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4524_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4524_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4525.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4525_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4525_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4526_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4527_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4528_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4528_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4528_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4528_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4528_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4528_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4528_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4529_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4529_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4529_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4529_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4530_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4530_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4531_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4531_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4531_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4531_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4531_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4532_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4533_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4533_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4533_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4533_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4534.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4534_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4534_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4534_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4534_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4535_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4535_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4536_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4536_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4536_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4536_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4536_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4537_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4538_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4538_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4538_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4539_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4539_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4540_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4540_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4541_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4541_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4541_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4542_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4543.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4543_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4543_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4544_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4544_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4544_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4545_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4545_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4546_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4546_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4547_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4547_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4547_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4547_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4547_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4548_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4548_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4548_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4548_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4549_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4549_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4550.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4550_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4550_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4550_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4550_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4550_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4552_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4552_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4552_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4553_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4554_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4554_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4554_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4554_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4554_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4555_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4555_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4555_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4555_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4555_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4556_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4556_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4556_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4556_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4556_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4556_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4556_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4557.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4557_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4557_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4557_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4557_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4557_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4558_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4558_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4558_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4559_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4559_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4559_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4560_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4560_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4561.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4561_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4561_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4561_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4562.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4562_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4562_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4562_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4562_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4563.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4563_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4563_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4563_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4564_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4564_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4565_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4565_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4566_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4566_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4566_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4566_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4567.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4567_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4568_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4568_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4568_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4568_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4568_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4570_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4570_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4570_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4571_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4571_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4572_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4572_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4575_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4575_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4575_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4576_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4577_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4577_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4577_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4577_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4577_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4577_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4578_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4578_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4578_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4578_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4578_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4579.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4579_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4579_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4579_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4579_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4580_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4580_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4581_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4581_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4581_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4582.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4582_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4582_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4582_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4582_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4582_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4583_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4584_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4584_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4584_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4585_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4585_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4585_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4585_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4586_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4588.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4588_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4588_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4588_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4588_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4588_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4589_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4589_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4589_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4590_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4590_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4591_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4591_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4591_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4591_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4592_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4592_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4592_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4592_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4593_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4594_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4594_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4595_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4596_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4597_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4597_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4598_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4598_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4599_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4600_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4600_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4600_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4600_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4601_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4601_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4602_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4602_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4602_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4603.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4603_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4604_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4604_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4604_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4605_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4605_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4605_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4605_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4606_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4606_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4606_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4607_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4607_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4607_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4608_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4608_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4608_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4609_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4609_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4609_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4609_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4610_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4610_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4611_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4611_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4611_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4612_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4612_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4612_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4612_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4613_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4613_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4614_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4614_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4614_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4615_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4615_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4615_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4615_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4616_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4616_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4617_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4617_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4617_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4617_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4618_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4619_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4620_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4620_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4620_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4620_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4621_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4621_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4621_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4621_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4621_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4622_aug1.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4622_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4622_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4622_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4743 - Copy.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4743 - Copy_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4743 - Copy_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4743 - Copy_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4743 - Copy_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4743 - Copy_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4753 - Copy_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4753 - Copy_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4753 - Copy_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4865 - Copy_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4865 - Copy_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4865 - Copy_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4998 - Copy_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4998 - Copy_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_4998 - Copy_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5487 - Copy_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5487 - Copy_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5487 - Copy_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5670 - Copy_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5670 - Copy_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5670 - Copy_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5670 - Copy_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5675_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5675_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5675_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_5675_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_6106_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_6773 - Copy_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_6773 - Copy_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_6773 - Copy_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_6773 - Copy_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7354 - Copy_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7354 - Copy_aug15.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7354 - Copy_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7354 - Copy_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7401 - Copy_aug17.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7401 - Copy_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7401 - Copy_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7401 - Copy_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7401 - Copy_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7401 - Copy_aug9.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7407_aug18.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7407_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7408_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7408_aug12.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7408_aug4.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7408_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7409_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7410_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7410_aug2.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7410_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7661_aug10.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7661_aug6.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7661_aug7.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7750_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7750_aug14.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7750_aug16.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7750_aug3.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_7932_aug19.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8131_aug11.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8131_aug13.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8131_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8131_aug8.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8136.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8136_aug0.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8136_aug5.JPG
+C:/Users/xwen2/Desktop/YOLOv3/VOCdevkit/VOC2019/images/train2014/IMG_8136_aug6.JPG

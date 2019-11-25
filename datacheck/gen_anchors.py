@@ -14,8 +14,8 @@ import shutil
 import random 
 import math
 
-width_in_cfg_file = 1280
-height_in_cfg_file = 720
+width_in_cfg_file = 256
+height_in_cfg_file = 256
 
 def IOU(x,centroids):
     similarities = []
@@ -49,8 +49,8 @@ def write_anchors_to_file(centroids,X,anchor_file):
     print(anchors.shape)
 
     for i in range(anchors.shape[0]):
-        anchors[i][0]*=width_in_cfg_file/32.
-        anchors[i][1]*=height_in_cfg_file/32.
+        anchors[i][0]*=width_in_cfg_file#/32.
+        anchors[i][1]*=height_in_cfg_file#/32.
          
 
     widths = anchors[:,0]
@@ -106,9 +106,9 @@ def kmeans(X,centroids,eps,anchor_file):
 
 def main(argv):
     parser = argparse.ArgumentParser()
-    parser.add_argument('-filelist', default = '2007_train.txt', 
+    parser.add_argument('-filelist', default = 'C:/Users/xwen2/Desktop/YOLOv3/2019_train.txt', 
                         help='path to filelist\n' )
-    parser.add_argument('-output_dir', default = 'generated_anchors/anchors', type = str, 
+    parser.add_argument('-output_dir', default = 'C:/Users/xwen2/Desktop/YOLOv3/datacheck/', type = str, 
                         help='Output anchor directory\n' )  
     parser.add_argument('-num_clusters', default = 9, type = int, 
                         help='number of clusters\n' )  
@@ -130,7 +130,9 @@ def main(argv):
                     
         #line = line.replace('images','labels')
         #line = line.replace('img1','labels')
-        line = line.replace('JPEGImages','labels')        
+        line = line.replace('images','labels')
+        line = line.replace('.JPG','.txt')        
+        line = line.replace('.bmp','.txt') 
         
 
         line = line.replace('.jpg','.txt')

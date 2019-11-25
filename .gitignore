@@ -27,6 +27,7 @@ darknet/*.py
 darknet/LICENSE
 darknet/Makefile
 
+x64/weight/darknet53.conv.74
 
 VOCdevkit/VOC2019/Annotations
 VOCdevkit/VOC2019/images/train2014

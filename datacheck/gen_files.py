@@ -53,7 +53,7 @@ def convert_annotation(image_id):
     in_file.close()
     out_file.close()
 
-wd = "C:/Users/xwen2/Desktop/YOLOv3/"
+
 wd = "C:/Users/xwen2/Desktop/YOLOv3/"
 
 work_sapce_dir = os.path.join(wd, "VOCdevkit/")
@@ -119,16 +119,16 @@ for i in range(0,len(list)):
 
     probo = random.randint(1, 100)
     print("Probobility: %d" % probo)
-    if(probo < 75):
-        if os.path.exists(annotation_path):
-            train_file.write(image_path + '\n')
-            VOC_train_file.write(voc_nameWithoutExtention + '\n')
-            convert_annotation(nameWithoutExtention)
+    if(probo < 85):
+        #if os.path.exists(annotation_path):
+        train_file.write(image_path + '\n')
+        VOC_train_file.write(voc_nameWithoutExtention + '\n')
+            #convert_annotation(nameWithoutExtention)
     else:
-        if os.path.exists(annotation_path):
-            test_file.write(image_path + '\n')
-            VOC_test_file.write(voc_nameWithoutExtention + '\n')
-            convert_annotation(nameWithoutExtention)
+        #if os.path.exists(annotation_path):
+        test_file.write(image_path + '\n')
+        VOC_test_file.write(voc_nameWithoutExtention + '\n')
+            #convert_annotation(nameWithoutExtention)
 
 train_file.close()
 test_file.close()

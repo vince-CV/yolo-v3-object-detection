@@ -1,6 +1,6 @@
-classes= 2
+classes= 1
 train  = C:/Users/xwen2/Desktop/YOLOv3/2019_train.txt
 valid  = C:/Users/xwen2/Desktop/YOLOv3/2019_test.txt
-names = C:/Users/xwen2/Desktop/YOLOv3/x64/data/voc_at.names
+names = C:/Users/xwen2/Desktop/YOLOv3/x64/data/voc-at.names
 backup = C:/Users/xwen2/Desktop/YOLOv3/darknet/build/darknet/x64/backup
 
