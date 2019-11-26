@@ -46,4 +46,12 @@ Training:
 ```
 darknet detector train cfg/voc-at.data cfg/yolov3-voc-at.cfg darknet53.conv.74
 ```
-
+### Test
+Test on video:
+```
+darknet detector demo cfg/voc-at.data cfg/yolov3-voc-at-test.cfg backup/yolov3-voc-at_final.weights testfiles/***.MOV
+```
+Test on image:
+```
+darknet detector test cfg/voc-at.data cfg/yolov3-voc-at-test.cfg backup/yolov3-voc-at_final.weights testfiles/***.JPG
+```
